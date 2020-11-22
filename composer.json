@@ -1,0 +1,5 @@
+{
+    "require": {
+        "phpdocumentor/reflection-common": "^0.1.0"
+    }
+}
